@@ -10,7 +10,7 @@ const action = ['-', '+', 'X', '/'];
 const out = document.querySelector('.calc-screen p');
 
 function clearAll () {
-    a = ''; // first number and  result
+    a = ''; // first number and result
     b = ''; // second number 
     sign = ''; // знак
     finish = false;
